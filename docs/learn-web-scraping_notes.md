@@ -1,20 +1,18 @@
 # learn-web-scraping notes
 
-- [learn-web-scraping notes](#learn-web-scraping--notes)
+- [learn-web-scraping notes](#learn-web-scraping-notes)
   - [Description](#description)
   - [Useful resources](#useful-resources)
-  - [Installation](#installation)
 
 ## Description
 
-These notes were taken by [ Matthew Haines](hainesm6@gmail.com) as part of learning learn-web-scraping.
+These notes were taken by [Matthew Haines](hainesm6@gmail.com) as part of learning how to scrape the web.
 
 ## Useful resources
 
-- learn-web-scraping
+- [HTML youtube Crash Course][html_youtube_crash_course].
+- Real Python articles:
+  - [Practical introduction](https://realpython.com/python-web-scraping-practical-introduction/).
+  - [Beautiful soup web scraper](https://realpython.com/beautiful-soup-web-scraper-python/). 
 
-## Installation
-
-```python
-pip install learn-web-scraping
-```
+[html_youtube_crash_course]: [https://www.youtube.com/watch?v=UB1O30fR-EE]
