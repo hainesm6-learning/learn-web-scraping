@@ -17,6 +17,7 @@ These notes were taken by [Matthew Haines](hainesm6@gmail.com) as part of learni
 - Real Python articles:
   - [Practical introduction](https://realpython.com/python-web-scraping-practical-introduction/). *Not recommended*.
   - [Beautiful soup web scraper](https://realpython.com/beautiful-soup-web-scraper-python/). *Recommended*. Forked code available at [link][real_python_materials_web_scraping_bs4].
+- beautiful soup documentation.
 
 [html_youtube_crash_course]: [https://www.youtube.com/watch?v=UB1O30fR-EE]
 [real_python_materials_web_scraping_bs4]: [https://github.com/hainesm6-learning/realpython-materials/tree/master/web-scraping-bs4]
@@ -33,3 +34,7 @@ These notes were taken by [Matthew Haines](hainesm6@gmail.com) as part of learni
 - Each website will have different HTML structures, requiring different treatments to extract the desired data.
 - Websites aren't static implying methods could break after sometime.
 - Consider using an **API** if available as they are designed for data exchange, generally working with structured data e.g. JSON and XML, as apposed to HTML.
+
+### unordered notes
+Scraping dynamic websites
+ID attribute of HTML elements
